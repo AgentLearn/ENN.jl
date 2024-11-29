@@ -1,0 +1,11 @@
+name = "ENN"
+uuid = "b0d25091-0d72-4e4b-a780-0c598522565e"
+authors = ["Zarko Bizaca "]
+version = "0.0.1"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+LinearAlgebra = "1.11.0"
+julia = "1.11.1"
