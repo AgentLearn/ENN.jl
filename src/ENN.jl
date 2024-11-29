@@ -1,5 +1,7 @@
 module ENN
 
-greet() = print("Hello World!")
+
+include("concepts.jl")
+export Signal, Neuron
 
 end # module ENN

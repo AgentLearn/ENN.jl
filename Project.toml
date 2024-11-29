@@ -5,7 +5,9 @@ version = "0.0.1"
 
 [deps]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Metal = "dde4c033-4e86-420c-a63e-0dd931031962"
 
 [compat]
 LinearAlgebra = "1.11.0"
-julia = "1.11.1"
+Metal = "1.4.2"
+julia = "1.11"
