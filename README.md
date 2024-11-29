@@ -1,2 +1,4 @@
 # ENN.jl
-Biologically  inspired neural netwokd
+Biologically  inspired neural netwoks.
+
+## (under consturction)
